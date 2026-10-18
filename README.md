@@ -76,10 +76,9 @@ There are seven endings, and the Endings menu tracks which ones you have found. 
 
 | Name | Role | Links |
 |---|---|---|
-| [YOUR NAME] | [e.g. Programming and design] | [GitHub / itch / portfolio] |
-| [PARTNER 1 NAME] | [e.g. Art] | [link] |
-| [PARTNER 2 NAME] | [e.g. Audio and writing] | [link] |
-| [PARTNER 3 NAME] | [role] | [link] |
+| Amna Farooq| Program and Design|  |
+| Hafsa Ayesha| Art Assets and Sound Design | |
+| Ummara Amin | Game Idea and Game Design | |
 
 ## Run Locally
 
