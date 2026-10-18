@@ -6,13 +6,12 @@ A top-down stealth-horror game where you play the ghost of Professor Gartner. A 
 
 **[PLAY IN YOUR BROWSER](https://YOUR-USERNAME.github.io/haunted-shade/)** | **[WATCH THE TRAILER](YOUR-YOUTUBE-LINK)** | **[ITCH.IO PAGE](YOUR-ITCH-LINK)**
 
-![Haunted Shade screenshot](screenshots/cover.png)
 
 ## Game Jam
 
-- **Jam:** [JAM NAME]
-- **Themes used:** Shadow, Fire, Time
-- **Dates:** [START DATE] to [END DATE]
+- **NasconEvent:** Vibe Code Game Dev
+- **Themes used:** Shadow,Time
+- **Dates:** 16th October 2026 to 18th October 2026
 
 ## The Story
 
@@ -23,8 +22,7 @@ Drive them out, or make them stay. There are **7 endings** to find.
 ## How the Themes Fit
 
 - **Shadow:** The sun burns you. Furniture shade and closed curtains are your only safe places.
-- **Fire:** The fire that killed Gartner. The furnace is part of the finale.
-- **Time:** A day clock counts down to sunset, and the grandfather clock stopped at 4:59.
+- **Time:** A day clock counts down to sunset.
 
 ## How to Play
 
