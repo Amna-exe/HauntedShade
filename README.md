@@ -4,8 +4,7 @@
 
 A top-down stealth-horror game where you play the ghost of Professor Gartner. A family has bought your house, and you have three days to drive them out. Sunlight burns you, the family fights back, and the way you haunt them decides how the story ends.
 
-**[PLAY IN YOUR BROWSER](https://YOUR-USERNAME.github.io/haunted-shade/)** | **[WATCH THE TRAILER](YOUR-YOUTUBE-LINK)** | **[ITCH.IO PAGE](YOUR-ITCH-LINK)**
-
+ **[WATCH THE TRAILER](https://drive.google.com/file/d/1ibKzxims0yk7B6s1jlxz15p9UpVS_mw8/view?usp=sharing)** |
 
 ## Game Jam
 
